@@ -1,0 +1,41 @@
+/* PADDING AND MARGINS */
+.m-tb-50 {
+	margin: 50px 0 50px 0;
+}
+.m-tb-20 {
+	margin: 20px 0 20px 0;
+}
+.m-b-50 {
+	margin-bottom: 50px;
+}
+.m-b-30 {
+	margin-bottom: 30px;
+}
+.p-l-0 {
+	padding-left: 0px;
+}
+
+/* FLEX STYLES */
+.valign {
+    display: flex;
+    align-items: center;
+}
+
+/* COLOR */
+.txt-white {
+	color: #fff;
+}
+.txt-shadow {
+	text-shadow: 5px 5px 10px rgba(0,0,0,.5);
+}
+
+/* HELPERS */
+.fixed {
+	position: fixed;
+}
+.relative {
+	position: relative;
+}
+.absolute {
+	position: absolute;
+}
